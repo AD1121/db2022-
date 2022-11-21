@@ -1,8 +1,9 @@
 # db2022-
 Education labb
 
-#Heading level 1
-#Heading level 2
+# Heading level 1
+**Enter**
+## Heading level 2
 
 > **Labb** för att kunna arbeta med *Git bash* och *Node*, samt lära sig Vi
 
